@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+##
 
-You can use the [editor on GitHub](https://github.com/pawelciosmak/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Sandomierz
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="san_1.jpg" alt="Italian Trulli">
 
-### Markdown
+<img src="san_2.jpg" alt="Italian Trulli">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="san_3.jpg" alt="Italian Trulli">
 
-```markdown
-Syntax highlighted code block
+<img src="san_4.jpg" alt="Italian Trulli">
 
-# Header 1
-## Header 2
-### Header 3
+<img src="san_5.jpg" alt="Italian Trulli">
 
-- Bulleted
-- List
+<img src="san_6.jpg" alt="Italian Trulli">
 
-1. Numbered
-2. List
+<img src="san_7.jpg" alt="Italian Trulli">
 
-**Bold** and _Italic_ and `Code` text
+<img src="san_8.jpg" alt="Italian Trulli">
 
-[Link](url) and ![Image](src)
-```
+## Icons
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="icon_1.jpg" alt="Italian Trulli">
 
-### Jekyll Themes
+<img src="icon_2.jpg" alt="Italian Trulli">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pawelciosmak/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Varia
 
-### Support or Contact
+<img src="rece.jpg" alt="Italian Trulli">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="postac.jpg" alt="Italian Trulli">
