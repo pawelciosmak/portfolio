@@ -22,7 +22,7 @@
 
 ## Icons
 
-<img src="icon_1.jpeg" alt="Chrystus Pantokkrator">
+<img src="icon_1.JPEG" alt="Chrystus Pantokkrator">
 
 <img src="icon_2.jpeg" alt="Matka Boża Włodzimierska">
 
