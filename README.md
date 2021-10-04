@@ -32,7 +32,7 @@
 
 ## Varia
 
-<img src="brzozy.JPG" alt="Birches">
+<img src="brzozy.jpeg" alt="Birches">
 
 <img src="postac.jpg" alt="Body">
 
