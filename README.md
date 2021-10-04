@@ -1,6 +1,6 @@
+# A
 
-
-### Sandomierz
+## Sandomierz
 
 <img src="san_1.jpg" alt="Sandomierz nr 1">
 
@@ -20,7 +20,7 @@
 
 <img src="san_9.jpg" alt="Sandomierz nr 9">
 
-### Icons
+## Icons
 
 <img src="icon_1.jpg" alt="Chrystus Pantokkrator">
 
@@ -30,11 +30,11 @@
 
 <img src="stringtheory.jpg" alt="String Theory">
 
-### Varia
+## Varia
 
-<img src="rece.jpg" alt="Hands">
+<img src="brzozy.jpg" alt="Birches">
 
 <img src="postac.jpg" alt="Body">
 
-<img src="brzozy.jpg" alt="Birches">
+<img src="rece.jpg" alt="Hands">
 
