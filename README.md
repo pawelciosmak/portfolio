@@ -26,6 +26,10 @@
 
 <img src="icon_2.jpg" alt="Matka Boża Włodzimierska">
 
+## Conference Posters
+
+<img src="stringtheory.jpg" alt="String Theory">
+
 ### Varia
 
 <img src="rece.jpg" alt="Hands">
