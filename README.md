@@ -37,9 +37,12 @@
 ### Price list
 
 Drawing size 50x30 cm: 300 PLN
+
 Drawing size 60x50 cm: 500 PLN
+
 Painting size 50x30 cm: 500 PLN
-Icon size 30x20 cm: 1000 PLN
+
+Icon size 30x20 cm: 1500 PLN
 
 Prices of other sizes to be agreed.
 
