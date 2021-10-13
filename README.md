@@ -34,7 +34,8 @@
 
 <img src="rece.JPG" alt="Hands">
 
-### Price list
+
+### Price list (for artworks made on order)
 
 Drawing size 50x30 cm: 300 PLN
 
