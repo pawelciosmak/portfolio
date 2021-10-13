@@ -22,7 +22,7 @@
 
 ## Icons
 
-<img src="icon_1.JPEG" alt="Chrystus Pantokkrator">
+<img src="icon_1.JPEG" alt="Chrystus Pantokrator">
 
 <img src="icon_2.jpeg" alt="Matka Boża Włodzimierska">
 
@@ -35,8 +35,7 @@
 <img src="rece.JPG" alt="Hands">
 
 
-### Price list 
-(for artworks made on order)
+### Price list (for artworks made on order)
 
 Drawing size 50x30 cm: 300 PLN
 
