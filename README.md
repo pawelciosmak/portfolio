@@ -34,6 +34,9 @@
 
 <img src="rece.JPG" alt="Hands">
 
+## Posters
+
+<img src="stringtheory.jpg" alt="Poster">
 
 ### Price list (for artworks made on order)
 
