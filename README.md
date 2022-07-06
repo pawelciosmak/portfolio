@@ -38,15 +38,4 @@
 
 <img src="stringtheory.jpg" alt="Poster">
 
-### Price list (for artworks made on order)
-
-Drawing size 50x30 cm: 300 PLN
-
-Drawing size 60x50 cm: 500 PLN
-
-Painting size 50x30 cm: 500 PLN
-
-Icon size 40x30 cm: 1200 PLN
-
-%Prices of other sizes to be agreed. Shipping fee not included.
 
