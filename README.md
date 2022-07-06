@@ -48,5 +48,5 @@ Painting size 50x30 cm: 500 PLN
 
 Icon size 40x30 cm: 1200 PLN
 
-Prices of other sizes to be agreed. Shipping fee not included.
+%Prices of other sizes to be agreed. Shipping fee not included.
 
