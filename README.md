@@ -28,6 +28,12 @@
 
 ## Varia
 
+<img src="zamek.jpeg" alt="Castle Chocim">
+
+<img src="dzban.jpeg" alt="Jug">
+
+<img src="tuje.jpeg" alt="Thujas">
+
 <img src="brzozy.jpeg" alt="Birches">
 
 <img src="postac.jpg" alt="Body">
