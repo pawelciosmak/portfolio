@@ -28,11 +28,11 @@
 
 ## Varia
 
-<img src="zamek.jpeg" alt="Castle Chocim">
+<img src="zamek.JPEG" alt="Castle Chocim">
 
-<img src="dzban.jpeg" alt="Jug">
+<img src="dzban.JPEG" alt="Jug">
 
-<img src="tuje.jpeg" alt="Thujas">
+<img src="tuje.JPEG" alt="Thujas">
 
 <img src="brzozy.jpeg" alt="Birches">
 
