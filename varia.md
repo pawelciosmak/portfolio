@@ -4,7 +4,7 @@
 
 <img src="tuje.JPEG" alt="Thujas">
 
-<img src="brzozy.jpeg" alt="Birches">
+<img src="brzozy.JPEG" alt="Birches">
 
 <img src="postac.jpg" alt="Body">
 
