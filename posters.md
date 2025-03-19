@@ -4,4 +4,4 @@
 
 <img src="stringtheory.jpg" alt="Plakat nr 2">
 
-<img src="string_pheno.pdf" alt="Plakat nr 3">
+<img src="string_pheno.jpg" alt="Plakat nr 3">
