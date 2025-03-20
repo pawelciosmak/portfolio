@@ -1,5 +1,3 @@
-## Prace
-
 <a href="https://pawelciosmak.github.io/portfolio/sandomierz.html">Sandomierz</a>
 
 <a href="https://pawelciosmak.github.io/portfolio/ikony.html">Ikony</a>
