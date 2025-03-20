@@ -1,4 +1,4 @@
-## Sandomierz
+## Sandomierz (2012)
 
 <img src="san_1.JPG" alt="Sandomierz nr 1">
 
