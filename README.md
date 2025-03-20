@@ -8,5 +8,5 @@
 
 
 
-<img src="pi.JPG" alt="Pitagorio">
+
 
