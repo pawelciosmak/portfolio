@@ -1,7 +1,11 @@
 <img src="icon_1.JPEG" alt="Chrystus Pantokrator">
 
+Chrystus Pantokrator
+
 <img src="icon_2.jpeg" alt="Matka Boża W.">
 
-<img src="icona_MB.JPEG" alt="Matka Boża Włodzimierska">
+Matka Boża Włodzimierska
 
 <img src="ikona_Clarke.JPEG" alt="Pieta">
+
+Pieta
