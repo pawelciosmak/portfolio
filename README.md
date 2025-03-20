@@ -7,6 +7,8 @@
 <a href="https://pawelciosmak.github.io/portfolio/posters.html">Plakaty</a>
 
 
+ <img src="Pi.JPEG" alt="Pitagorio">
+
 
 
 
