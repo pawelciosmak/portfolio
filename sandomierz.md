@@ -1,4 +1,6 @@
-## Sandomierz (2012)
+## Sandomierz
+
+Prace powstałe podczas pleneru organizowanego przez Wielkopolską Szkołę Architektury i Sztuki w 2012 roku.
 
 <img src="san_1.JPG" alt="Sandomierz nr 1">
 
