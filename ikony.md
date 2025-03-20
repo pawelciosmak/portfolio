@@ -1,6 +1,6 @@
 ## Ikony
 
-Ikony powstałe w ramach zajęć organizowanych przez Akademię Ikony w Warszawie techniką tempery jajecznej na desce.
+Ikony powstałe w ramach zajęć organizowanych przez Akademię Ikony w Warszawie. Technika: tempera jajeczna na desce.
 
 <img src="icon_1.JPEG" alt="Chrystus Pantokrator">
 
