@@ -1,3 +1,5 @@
+## Różności
+
 <img src="zamek.JPEG" alt="Castle Chocim">
 
 Twierdza Chocim (akryl na płótnie, 91x64)
