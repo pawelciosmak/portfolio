@@ -2,15 +2,15 @@
 
 <img src="zamek.JPEG" alt="Castle Chocim">
 
-Twierdza Chocim (akryl na płótnie, 91x64)
+Twierdza Chocim (akryl na płótnie, 92x65)
 
 <img src="dzban.JPEG" alt="Jug">
 
-Dzbanek (akryl na płótnie)
+Dzbanek (akryl na płótnie, 30x40)
 
 <img src="tuje.JPEG" alt="Thujas">
 
-Tuje
+Tuje (30x40)
 
 <img src="brzozy.JPEG" alt="Birches">
 
