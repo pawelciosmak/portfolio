@@ -1,6 +1,5 @@
 ## Ikony
 
-Ikony powstałe w ramach zajęć organizowanych przez Akademię Ikony w Warszawie. Tempera jajeczna na desce.
 
 <img src="icon_1.JPEG" alt="Chrystus Pantokrator">
 
@@ -13,5 +12,7 @@ Matka Boża Włodzimierska
 <img src="ikona_Clarke.JPEG" alt="Pieta">
 
 Pieta
+
+Ikony powstałe w ramach zajęć organizowanych przez Akademię Ikony w Warszawie. Tempera jajeczna na desce.
 
 <a href="https://pawelciosmak.github.io/portfolio">Wstecz</a>
