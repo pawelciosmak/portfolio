@@ -1,7 +1,5 @@
 ## Sandomierz
 
-Prace powstałe podczas pleneru organizowanego przez Wielkopolską Szkołę Architektury i Sztuki w 2012 roku.
-
 <img src="san_1.JPG" alt="Sandomierz nr 1">
 
 <img src="san_2.JPG" alt="Sandomierz nr 2">
@@ -19,6 +17,8 @@ Prace powstałe podczas pleneru organizowanego przez Wielkopolską Szkołę Arch
 <img src="san_8.JPG" alt="Sandomierz nr 8">
 
 <img src="san_9.JPG" alt="Sandomierz nr 9">
+
+Prace powstałe podczas pleneru organizowanego przez Wielkopolską Szkołę Architektury i Sztuki w 2012 roku.
 
 <a href="https://pawelciosmak.github.io/portfolio">Wstecz</a>
 
