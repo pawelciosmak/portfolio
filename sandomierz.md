@@ -19,3 +19,6 @@ Prace powstałe podczas pleneru organizowanego przez Wielkopolską Szkołę Arch
 <img src="san_8.JPG" alt="Sandomierz nr 8">
 
 <img src="san_9.JPG" alt="Sandomierz nr 9">
+
+<a href="https://pawelciosmak.github.io/portfolio">Wstecz</a>
+
