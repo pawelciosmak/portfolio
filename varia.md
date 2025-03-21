@@ -23,3 +23,6 @@ Postać (rysunek węglem na papierze)
 <img src="rece.JPG" alt="Hands">
 
 Dłonie (rysunek węglem na papierze)
+
+<a href="https://pawelciosmak.github.io/portfolio">Wstecz</a>
+
