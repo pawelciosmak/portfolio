@@ -24,5 +24,11 @@ Postać (rysunek węglem na papierze)
 
 Dłonie (rysunek węglem na papierze)
 
+<img src="martwa_natura_ż.JPEG" alt="Still life">
+
+Martwa natura z żarówką (akryl na papierze, 50x70)
+
+
 <a href="https://pawelciosmak.github.io/portfolio">Wstecz</a>
+
 
