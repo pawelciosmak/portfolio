@@ -28,6 +28,10 @@ Dłonie (rysunek węglem na papierze)
 
 Martwa natura z żarówką (akryl na papierze, 50x70)
 
+<img src="portret.JPEG" alt="Portret">
+
+Portret (akryl na płótnie, 60x40)
+
 
 <a href="https://pawelciosmak.github.io/portfolio">Wstecz</a>
 
