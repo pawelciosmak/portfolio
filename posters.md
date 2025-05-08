@@ -8,7 +8,7 @@ Plakaty reklamujące konferencje organizowane przez Wydział Fizyki Uniwersytetu
 
 <img src="string_pheno.jpg" alt="Plakat nr 3">
 
-<ing src="plakat scalars 4.pdf" alt="Plakat nr 4">
+<ing src="plakat scalars.jpg" alt="Plakat nr 4">
 
 <a href="https://pawelciosmak.github.io/portfolio">Wstecz</a>
 
